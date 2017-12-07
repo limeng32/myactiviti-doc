@@ -6,7 +6,7 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
         <div class="info-card">
-        <h1>my bat is flying</h1>
+        <h1>My Activiti</h1>
         <a href="https://github.com/limeng32/mybatis.flying/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-32.png" alt="" width="24"/></a>
         <a href="https://maven-badges.herokuapp.com/maven-central/com.github.limeng32/mybatis.flying" target="_blank"><img src="https://maven-badges.herokuapp.com/maven-central/com.github.limeng32/mybatis.flying/badge.svg" alt="" /></a>
       </div>
