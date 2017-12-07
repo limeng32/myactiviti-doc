@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://flying-doc.limeng32.com/sitemap.xml
+Sitemap: http://flying-doc.limeng32.com/sitemap_baidu.xml

@@ -1,0 +1,8 @@
+permalink: /:title
+
+title: flying-doc
+url: https://limeng32.github.io
+feed: /atom.xml
+marked: 
+  gfm: true
+  breaks: true

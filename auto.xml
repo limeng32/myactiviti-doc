@@ -1,0 +1,11 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>flying-doc</title>
+<link href="http://flying-doc.limeng32.com/atom.xml" rel="self" type="application/atom+xml"/>
+<link href="http://flying-doc.limeng32.com" rel="alternate" type="text/html"/>
+<updated>2017-09-04T10:30:00+00:00</updated>
+<id>http://flying-doc.limeng32.com</id>
+<author>
+  <name>limeng32</name>
+  <email>limeng32@live.cn</email>
+</author>
+</feed>
